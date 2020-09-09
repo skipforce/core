@@ -1,6 +1,6 @@
 {
-  "name": "skipforce",
-  "version": "0.0.6",
+  "name": "core",
+  "version": "0.0.8",
   "engines": {
     "node": "12.18.1"
   },
